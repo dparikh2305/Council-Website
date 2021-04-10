@@ -1,1 +1,2 @@
 # Council-Website
+# Rules:
